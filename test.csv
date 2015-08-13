@@ -1,0 +1,2 @@
+url,phantomCacheEnabled,taskName,domReadystateLoading,domReadystateInteractive,windowOnload,elapsedLoadTime,numberOfResources,totalResourcesTime,slowestResource,largestResource,totalResourcesSize,nonReportingResources,timeStamp,date,time,errors
+http://qna.dev.daum.net,no,performance,0,387,1037,1040,55,3456,http://uf-test.hosts.daum.net/image/0377A501537B48B615F27A,http://s1.daumcdn.net/editor/releases/7.4.18-2/js/editor_basic.js,1091.729,2,1402406875217,10/5/2014,22:27:55,
